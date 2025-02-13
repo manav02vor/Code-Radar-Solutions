@@ -3,6 +3,6 @@
 int main(){
     char character;
     sacnf("%c", &character);
-    printf("ASCII Value: #d ", character);
+    printf("ASCII Value: %d ", character);
     return 0;
 }
